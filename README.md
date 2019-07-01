@@ -10,7 +10,7 @@
 * Keyboard Navigation for desktop.
 * And many more.
 
-##CDN
+## CDN
 * Index.ejs
 ```html
 <head>
